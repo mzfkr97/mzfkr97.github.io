@@ -24,12 +24,12 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ```kotlin
 // Kotlin code with syntax highlighting.
-setOnTouchListener(
+view.setOnTouchListener(
       object: OnSwipeTouchListener(requireContext()) {
-           override fun allSwipe() {
-              parentFlowCoordinator.back()
-            }
-        }
+          override fun allSwipe() {
+             parentFlowCoordinator.back()
+          }
+      }
 )
 ```
 
