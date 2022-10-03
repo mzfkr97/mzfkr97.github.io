@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[view my github](https://github.com/mzfkr97).
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)[view my github](https://github.com/mzfkr97).
 
 There should be whitespace between paragraphs.
 
