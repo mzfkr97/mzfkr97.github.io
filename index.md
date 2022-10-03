@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+[view my github]([./another-page.html](https://github.com/mzfkr97)).
 
 There should be whitespace between paragraphs.
 
