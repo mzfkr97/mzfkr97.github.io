@@ -1,6 +1,6 @@
 title: Roman Zhurid
 description: Hello!
 show_downloads: false
-google_analytics:
-theme: jekyll-theme-hacker
-url: https://github.com/mzfkr97
+remote_theme: pages-themes/midnight@v0.2.0
+# theme: jekyll-theme-hacker
+# url: https://github.com/mzfkr97
