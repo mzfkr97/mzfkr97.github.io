@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "com.solbeg.aichatbot,
+        "appID": "com.solbeg.aichatbot",
         "paths": [
           "*"
         ]
