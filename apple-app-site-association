@@ -1,15 +1,13 @@
 {
-  "applinks": {
+    "applinks": {
     "apps": [],
     "details": [
-      {
-        "appIDs": [
-                    "Z6ZGCN7K4G.com.solbeg.aichatbot1",
-                    "Z6ZGCN7K4G.com.solbeg.aichatbot"
-                ],
+    {
+        "appID": [
+        "Z6ZGCN7K4G.com.solbeg.aichatbot1",
+        ],
         "paths": ["*"]
-        "comment": "Matches any URL whose path starts with /stock/"
-      }
+    }
     ]
-  }
+}
 }
