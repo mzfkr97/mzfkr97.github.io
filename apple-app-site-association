@@ -4,9 +4,8 @@
     "details": [
       {
         "appID": "Z6ZGCN7K4G.com.solbeg.aichatbot1",
-        "paths": [
-          "*"
-        ]
+        "paths": ["*"]
+        "comment": "Matches any URL whose path starts with /stock/"
       }
     ]
   }
