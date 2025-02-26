@@ -1,13 +1,11 @@
 {
-    "applinks": {
+  "applinks": {
     "apps": [],
     "details": [
     {
-        "appID": [
-        "Z6ZGCN7K4G.com.solbeg.aichatbot1",
-        ],
-        "paths": ["*"]
+      "appID": "Z6ZGCN7K4G.com.solbeg.aichatbot1",
+      "paths": ["*"]
     }
     ]
-}
+  }
 }
